@@ -88,11 +88,7 @@ Vorgehensweise für die Reorganisation:
 
 * Knoten:
 
-| FAZ |      |               |      | FEZ |
-| :-: | :--- | :------------ | :--- | :-- |
-|     | \|Nr | \|BEZEICHNUNG |      | \|  |
-|     | \|D  | \|GP          | \|FP | \|  |
-| SAZ |      |               |      | SEZ |
+![Netzplanknoten](http://sixsigma.siegfried-seibert.de/uploads/TBProjektWerkzeuge/Netzplanknoten.jpg)
 
 * FAZ : Frühster Anfangszeitpunkt
 * D: Dauer
