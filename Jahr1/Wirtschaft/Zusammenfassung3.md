@@ -3,8 +3,7 @@
 ## Ablauforganisation
 
 Die Ablauforganisation ordnet die Arbeitsprozesse in sachlicher, personeller, zeitlicher
-und räumlicher Reihenfolge.
-Sie stellt den Betrieb in Aktionb dar.
+und räumlicher Reihenfolge. Sie stellt den Betrieb in Aktion dar.
 
 ### Arten der Ablauforganisation
 
@@ -22,7 +21,7 @@ Minimale Wege bei räumlicher Ordnung der Aufgabenträger(Kommunikationsmatrix)
 
 #### Ergonomie
 
-estaltung des Arbeitsablaufs, um den Bedürfnissen des Menschen gerecht zu werden.
+Gestaltung des Arbeitsablaufs, um den Bedürfnissen des Menschen gerecht zu werden.
 
 ### Ziel
 
@@ -34,14 +33,14 @@ estaltung des Arbeitsablaufs, um den Bedürfnissen des Menschen gerecht zu werde
 
 Arbeitsabläufe werden normalerweise für längeren Zeitraum bestimmt. Doch es gibt Ausnahmen:
 
-* häufige Sörungen im Arbeitsablauf festgestellt
+* häufige Störungen im Arbeitsablauf werden festgestellt
 * Einführung neuer moderner Arbeitsmittel
 * Veränderung des Produktionsprogramms
 * notwendige Rationalisierungsmaßnahmen
 
 Vorgehensweise für die Reorganisation:
 
-1.  **Ist-Aufnahme**: Erfassung der besherigen Arbeitsabläufe
+1.  **Ist-Aufnahme**: Erfassung der bisherigen Arbeitsabläufe
 2.  **Ist-Analyse**: Analyse des Ist-Zustands
 3.  **Soll-Konzept**: Aus der Ist-Analyse Vorschlag erarbeiten
 4.  **Tests**: Soll-Konzept testen und ggf. überarbeiten
@@ -74,9 +73,9 @@ Vorgehensweise für die Reorganisation:
   * Halbkreis: Verzögerung
 
 * Balkendiagramm (zeitorientiert):
-  * ![Gantt-Diagramm](http://aha-wissen-praxis.de/sites/default/files/pictures/diagramme/gantt-diagramm.png "Gantt-Diagramm")
+  * ![Gantt-Diagramm](https://upload.wikimedia.org/wikipedia/commons/d/d3/Ganttchart.jpg "Gantt-Diagramm")
 * Netzplan (zeitorientiert):
-  * ![Beispiel](https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/glossar/beispiel-netzplan/832394-1-ger-DE/beispiel-netzplan.png "Netzplan")
+  * ![Beispiel](https://upload.wikimedia.org/wikipedia/commons/c/cd/Netzplan.jpg "Netzplan")
   * Erstellung durch 1. Strukturanalyse dann 2. Zeitanalyse
 * Kommunikationsdiagramm (raumorientiert):
   * ![Beispiel Dreiecksform](https://www.bwl-betriebswirtschaft.de/gfx/raumdiagramm-komunikationsmatrix.jpg "Kommunigram Dreiecksform")
@@ -120,7 +119,7 @@ Definition: Unter Lager versteht man den Ort, an dem Ware auf Vorrat aufbewahrt 
 
 ### Funktionen:
 
-* Koordinationsfuncktion zwischen Materialzugang und -abgang
+* Koordinationsfunktion zwischen Materialzugang und -abgang
 * Sicherungsfunktion (z.B. Reserven)
 * Spekulationsfunktion, wenn Waren z.B. im Preis schwanken
 * Veredelungsfunktion, wenn Waren mit Zeit wertvoller werden (z.B. Wein)
