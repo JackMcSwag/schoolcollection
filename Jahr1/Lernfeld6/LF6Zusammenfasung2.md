@@ -69,13 +69,41 @@ double temperatur[30];
 
 oder
 
-double temperatur[30] = {Wert1, Wert2, ..., Wert30};
+double temperatur[] = {Wert1, Wert2, ..., Wert30};
 ```
 * Definition durch eckige Klammern ([]) mit Anzahl der Elementen
 * Alle Felder beginnen mit Index __0__
 * Feldelemente werden über den Index angesprochen (z.B. temperatur[__3__])
 * Feldgrenzen werden von C nicht überprüft. Programmierer ist dafür verantwortlich, dass die Felder groß genug für alle Elemente sind
 * Das Überschreiten von Feldgrenzen kann andere Variablen zerstören
+* Beim direkten Intialisieren kann die Anzahl in den eckigen Klammern weggelassen werden
+
+
+## Mehrdimensionale Felder
+
+### Deklaration
+
+_Beispiel Temperatur pro Tag über 12 Monate_
+
+```c
+double temperatur[12][30];
+
+oder 
+
+double temperatur[][] = {
+    {Wert1, Wert2, ..., Wert30}, 
+    {Wert1, Wert2, ..., Wert30},
+    ...,
+    {Wert1, Wert2, ..., Wert30}
+}
+```
+
+* zweidimensionales Feld meist üblicher als höherdimensionale
+* Feldelement wird über je einen Index pro Dimension angesteuert
+
+```c
+temperatur[2][15] // Wert von Tag 16 aus Monat 3
+```
 
 ### Beispiele aus dem Unterricht:
 
