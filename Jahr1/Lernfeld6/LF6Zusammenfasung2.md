@@ -34,8 +34,8 @@ Rückabetyp Funktionsname(Paramtertyp1 Parameter1, Parametertyp2 Parameter2, ...
 }
 ```
 * Rückgabetyp kann jeder gültige Typ sein, wird keiner angegeben ist es _int_
-* Funktionen die keinen Wert liefern, bekommen den Rückgabetyp _void_
-* Paramterliste besteht aus Typ und Name des übergebenen Werte
+* Bei Funktionen die keinen Wert liefern, benutzt man den Rückgabetyp _void_
+* Paramterliste besteht aus Typ und Name der übergebenen Werte
 * _return_ dient zur Rückgabe eines Wertes und beendet die Funktion
 * _return_ ohne Ausdruck beendet Funktion ohne Rückgabewert
 * Variablen die im Anweisungsblock erstellt werden, sind auch nur in der Funktion verfügbar
@@ -58,7 +58,7 @@ Funktionsname(Parameter1, Parameter2, ...);
 
 # Felder (engl. Array)
 
-Ein Array ist eine gruppierten Anzahl von Speicherstellen des gleichen  Datentyps, die sich nur von dem Index unterscheiden.
+Ein Array ist eine gruppierten Anzahl von Speicherstellen des gleichen  Datentyps, die durch den Index unterschieden werden.
 
 ## Defintion
 
@@ -74,7 +74,7 @@ double temperatur[30] = {Wert1, Wert2, ..., Wert30};
 * Definition durch eckige Klammern ([]) mit Anzahl der Elementen
 * Alle Felder beginnen mit Index __0__
 * Feldelemente werden über den Index angesprochen (z.B. temperatur[__3__])
-* Feldgrenzen werden von C nicht überprüft. Programmierer ist dafür verantwortlich, dass die Felder groß genug für alle Elemente sind.
+* Feldgrenzen werden von C nicht überprüft. Programmierer ist dafür verantwortlich, dass die Felder groß genug für alle Elemente sind
 * Das Überschreiten von Feldgrenzen kann andere Variablen zerstören
 
 ### Beispiele aus dem Unterricht:
