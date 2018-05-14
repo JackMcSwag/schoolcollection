@@ -29,7 +29,7 @@ Definition der Funktion mit Anweisungsblock:
 Rückabetyp Funktionsname(Paramtertyp1 Parameter1, Parametertyp2 Parameter2, ...)
 {
     lokale Vereinbarung;
-    Anweiungen;
+    Anweisungen;
     return (Ergebnis);
 }
 ```
@@ -52,7 +52,7 @@ Funktionsname(Parameter1, Parameter2, ...);
 * Volumen und Oberfläche einer Kugel in gesonderten Funktionen
 * Mathematische Funktionen
 * Kreditberechnung
-* Fläschenrechner
+* Flächenrechner
 * Süßigkeitenautomat
 
 
