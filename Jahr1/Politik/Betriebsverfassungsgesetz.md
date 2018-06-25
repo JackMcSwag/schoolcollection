@@ -8,7 +8,7 @@
 
 ## Betriebsrat
 
-### Vorraussetzung
+### Voraussetzung
 
 * min. 5 wahlberechtigte Mitarbeiter (3 müssen wählbar sein)
 
