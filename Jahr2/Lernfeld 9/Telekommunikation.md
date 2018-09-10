@@ -70,3 +70,37 @@ Unterscheidet zwischen Innland- uns Auslandanrufen.
 
 Wird aus der HVSt (1. Ziffer), der KVSt (2. & 3. Ziffer ) und der OVSt (letzte Ziffer) gebildet. In dicht besiedelten Bereichen ist die OVSt 2-stellig.
 
+# ISDN
+
+## Intergrated Services Network
+
+* Verschieden Dienste
+* Digital
+* Bildschirmtext (BTX)
+
+### ISDN Basisanschluss
+
+![Aufbau ISDN-Basisanschluss](./ISDN-Basisanschluss.png "ISDN-Basisanschluss")
+
+* 2x B-Kanal mit je 64 kbit/s (Nutzkanal)
+* 1x D-Kanal mit je 12 kbit/s (Steuerkanal)
+ 
+ = 144 kbit/s Netto-Datenübertragungsrate
+
+ Da auf Bussystemen oft sehr hochfrequente elektrische Signale übertragen werden, können an Verzweigungen und Enden des Übertragungsmediums auftretende Reflexionen nicht vernachlässigt werden; sie können zur Auslöschung der Signale durch Interferenz an bestimmten Stellen und damit zur Fehlfunktion des gesamten Systems führen. __Daher muss an beiden Enden im BUS terminiert werden__ (meist mit 100 Ohm).
+
+#### NTBA = Network Termination Basic Access
+Der NTBA ermöglich den Anschluss unterschiedlicher ISDN-fähiger Endgeräte an eine ISDN-Vermittlungsstelle des öffentlichen Telefonnetzes.
+
+#### IAE = ISDN-Anschluss-Einheit
+
+Eine ISDN-Anschluss-Einheit (IAE) ist eine Anschlussdose für Endgeräte am S0-Bus in ISDN-Installationen. 
+
+#### EAZ = Endgeräteauswahlziffer
+
+Bezeichnet die unter dem ISDN-Anschluss verwendete Rufnummer. Die EAZ ist die Erweiterung
+der Hauptrufnummer und dient zur direkten Verbindung zu einem Endgerät. Die EAZ 0 ist dabei für das Ansprechen aller Endgeräte.
+
+#### MSN = Multiple Subscriber Number
+
+Mit MSN kann ein ISDN-Basisanschluss unter mehreren Rufnummern erreichbar sein. Die MSNs können flexibel auf die Endgeräte aufgeteilt werden. In Deutschland ist die Anzahl der MSNs pro ISDN-Mehrgeräteanschluss von der Bundesnetzagentur auf maximal zehn begrenzt. Die MSN ist der Teil der Telefonnummer, der auf die Ortsnetzkennzahl, auch Vorwahl genannt, folgt.
