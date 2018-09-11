@@ -87,7 +87,7 @@ Beim Basisanschluss hat man die Wahl, ob man eine Telefonanlage einsetzt oder ni
 * Analoge Schnittstelle = Uk0
 * Digitale Schnittstelle = S0
 * 2x B-Kanal mit je 64 kbit/s (Nutzkanal)
-* 1x D-Kanal mit je 12 kbit/s (Steuerkanal)
+* 1x D-Kanal mit 16 kbit/s (Steuerkanal)
  
  = 144 kbit/s Netto-Datenübertragungsrate
 
