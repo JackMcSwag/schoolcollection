@@ -72,7 +72,7 @@ Wird aus der HVSt (1. Ziffer), der KVSt (2. & 3. Ziffer ) und der OVSt (letzte Z
 
 # ISDN
 
-## Intergrated Services Network
+## Intergrated Services Digital Network
 
 * Verschieden Dienste
 * Digital
@@ -94,7 +94,7 @@ Beim Basisanschluss hat man die Wahl, ob man eine Telefonanlage einsetzt oder ni
  Da auf Bussystemen oft sehr hochfrequente elektrische Signale übertragen werden, können an Verzweigungen und Enden des Übertragungsmediums auftretende Reflexionen nicht vernachlässigt werden; sie können zur Auslöschung der Signale durch Interferenz an bestimmten Stellen und damit zur Fehlfunktion des gesamten Systems führen. __Daher muss an beiden Enden im BUS terminiert werden__ (meist mit 100 Ohm).
 
 #### NTBA = Network Termination Basic Access
-Der NTBA ermöglich den Anschluss unterschiedlicher ISDN-fähiger Endgeräte an eine ISDN-Vermittlungsstelle des öffentlichen Telefonnetzes.
+Der NTBA ermöglicht den Anschluss unterschiedlicher ISDN-fähiger Endgeräte an eine ISDN-Vermittlungsstelle des öffentlichen Telefonnetzes.
 
 #### IAE = ISDN-Anschluss-Einheit
 
