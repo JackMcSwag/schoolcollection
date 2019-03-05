@@ -202,5 +202,40 @@ Im Gegensatz zu IPv4-Adressen, die nur in private und öffentliche Adressen unte
 
 * Patchfeld, Patchkabel, Anschlussdosen, Netzwerkkabel, Verteilerschränke, Switches, Hubs, Router
 
+Zu beachten:
+* Anwendungsfall, Reichweite, Stabilität, Verfügbarkeit, Erweiterbarkeit, Dienstneutral, Wartbarkeit, Dokumentation
 
+* Permanent-Link: Ende bis zur Dose
+* Channel-Link: Ende bis zum Endgerät
+
+### Spanning Tree Verfahren
+
+* Verhindert parallele Verbindungen in Netzen mit vielen Switches
+* Es werden keine Schleifen erzeugt
+* Wird in beliebig vermaschten Netzstrukturen angewendet
+* Erzeugt eine Baumtopologie mit eindeutigen Verbindungspfaden
+
+## Leistungsmerkmale der Datenübertragung
+
+### Klasse
+
+Die Klasse bezieht sich auf die installierte und angeschlossene Verkabelung
+
+| Verkabelungsklasse | Übertragungsfrequenzen MHz         | Datenübertragungsraten Gbit/s                                                   |
+|:------------------:|:----------------------------------:|:-------------------------------------------------------------------------------:|
+|          E         | 250                                | 1                                                                               |
+|         EA         | 500                                | 10                                                                              |
+|          F         | 600                                | >10                                                                             |
+|         FA         | 1000                               | >10                                                                             
+### Kategorie
+
+Die Kategorie bezieht sich auf die einzelnen Komponenten (Kabel oder Anschlussdose)
+
+| Komponentenkategorie | Übertragungsfrequenzen MHz | Datenübertragungsraten Gbit/s |
+|:--------------------:|:--------------------------:|:-----------------------------:|
+|           6          |             250            |               1               |
+|          6A          |             500            |               10              |
+|           7          |             600            |               10              |
+|          7A          |            1000            |               10              |
+|           8          |            2000            |               40              |
 
