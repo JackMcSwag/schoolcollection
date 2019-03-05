@@ -21,7 +21,7 @@
 
 ## IP - Adresse
 
-* Die Internet Protocol - Adresse sollte in __einem__ Netzwerk eindeutig sein.
+* Die Internet Protocol - Adresse MUSS in __einem__ Netzwerk eindeutig sein.
 
 ## Protokolle
 Legen Regeln für Sprache und Form(Format) fest. Durch die Einigung ist die Kommunikation unter Teilnehmern gegeben und zusätzlich bietet diese Art der Standardisierung Sicherheit und Effizienz.
@@ -153,7 +153,7 @@ Der Suffix gibt die Anzahl der aufeinander folgenden 1er Bits in der Subnetzmask
 
 Klasse| 1.Byte Binär |Von: | Bis:| Subnetzmaske| Bemerkung
 |:---:|:---:|:---:|:---:|:---:|:---:|
-Class A|0XXXXXXX|0.X.X.X|127.X.X.X|255.0.0.0|2^7 Netze/2^24-2 Hosts
+Class A|0XXXXXXX|0.X.X.X|127.255.255.255|255.0.0.0|2^7 Netze/2^24-2 Hosts
 Class B|10XXXXXX|128.0.X.X|191.255.X.X|255.255.0.0|2^14 Netze/2^16-2 Hosts
 Class C|110XXXXX|192.0.0.X|223.255.255.X|255.255.255.0| 2^21 Netze/2^8-2 Hosts
 Class D|1110XXXX|224.0.0.0|239.255.255.255|Multicasting
@@ -182,6 +182,9 @@ Klasse C|256|192.168.0.0-192.168.255.0|255.255.255.0| 192.168.0.1-192.168.0.254
 
 * Durch das Verfahren DHCP werden druch den Router automatisch IP-Adressen an Teilnehmer eines Netzwerkes vergeben
 
+### DNS Domain Name System
+
+* Verantwortlich für die Namensauflösung (Url zu Ip)
 
 #### Standard Gateway
 
@@ -244,7 +247,11 @@ usw.
 ### Switch
 
 * Trifft Weiterleitungsentscheidungen anhand der der selbständig erlernten Hardware-Adressen der angeschlossenen Geräte.
-* Multi-Layer (2 & 3)
+* Multi-Layer (2 & 3) (Eigentlich nur 2. Die, die auch Teile aus Layer 3 übernehmen sind spezielle Switches die halt auch Router-Funktionalitäten übernehmen)
+
+### Hubs und Accesspoints
+
+* Leiten Daten ohne weitere Verarbeitung auf allen anderen ihnen zur Verfügung stehenden Kanälen weiter
 
 ### Firewall
 
