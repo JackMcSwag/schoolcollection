@@ -1,13 +1,15 @@
 1.) Kurzeinleitung
+* Definition
+* Kurzer Überblick in Deutschland
 
 2.) private Berichterstattung
+* Finanzierung und Lobbyismus
+* Wie läuft die Berichterstattung ab
 
-3.) öff Berichterstattung
+3.) öffentliche Berichterstattung
+* Finanzierung und Lobbyismus
+* Wie läuft die Berichterstattung ab
 
 4.) Vergleich öff -> priv Berichterstattung
 
-5.) Finanzierung
-
-6.) Lobbyismus
-
-7.) Kritik
+5.) Kritik
