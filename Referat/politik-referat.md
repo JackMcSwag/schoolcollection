@@ -10,7 +10,7 @@
 * Finanzierung und Lobbyismus
 * Wie läuft die Berichterstattung ab
 
-4.) Vergleich öff -> priv Berichterstattung (Mirko)
+4.) Vergleich öffentlich -> private Berichterstattung (Mirko)
 
 5.) Kritik (Magnus)
 
