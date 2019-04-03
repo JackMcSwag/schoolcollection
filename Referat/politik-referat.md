@@ -1,15 +1,17 @@
-1.) Kurzeinleitung
+1.) Kurzeinleitung (Magnus)
 * Definition
 * Kurzer Überblick in Deutschland
 
-2.) private Berichterstattung
+2.) private Berichterstattung (Florian)
 * Finanzierung und Lobbyismus
 * Wie läuft die Berichterstattung ab
 
-3.) öffentliche Berichterstattung
+3.) öffentliche Berichterstattung (Kevin)
 * Finanzierung und Lobbyismus
 * Wie läuft die Berichterstattung ab
 
-4.) Vergleich öff -> priv Berichterstattung
+4.) Vergleich öff -> priv Berichterstattung (Mirko)
 
-5.) Kritik
+5.) Kritik (Magnus)
+
+6.) Diskussion (Marcel)
